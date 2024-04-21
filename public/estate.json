@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Modern Loft in Downtown",
+        "segment_name": "Apartment",
+        "description": "Stylish loft apartment in the heart of the city, offering contemporary design and urban convenience. This sleek space features an open floor plan with plenty of natural light, ideal for modern living. Enjoy city views from the private balcony or take advantage of the building's amenities, including a fully-equipped gym. Located in bustling Downtown Los Angeles, this loft provides easy access to shopping, dining, and entertainment options. Perfect for professionals or couples seeking a vibrant urban lifestyle.",
+        "price": "$750,000",
+        "status": "sale",
+        "area": "1500 sq ft",
+        "location": "Downtown Los Angeles, California",
+        "facilities": [
+            "open floor plan",
+            "balcony",
+            "gym"
+        ],
+        "image": "https://i.ibb.co/4RjyHgz/cafe-living-room-loft-style.jpg"
+    },
+    {
+        "id": 2,
+        "estate_title": "Spacious Townhouse in Suburban Community",
+        "segment_name": "Townhouse",
+        "description": "Inviting townhouse located in a peaceful suburban community, perfect for families. This spacious home features multiple bedrooms, a gourmet kitchen, and a cozy living room with a fireplace. Relax in the backyard oasis with a lush garden and patio space for outdoor dining and entertaining. Ideal for families seeking a quiet retreat while still being close to schools, parks, and amenities. Located in a desirable neighborhood with friendly neighbors and a strong sense of community, this home offers the perfect blend of comfort and convenience for family living.",
+        "price": "$600,000",
+        "status": "sale",
+        "area": "2200 sq ft",
+        "location": "Suburban Community, Anytown",
+        "facilities": [
+            "spacious backyard",
+            "gourmet kitchen",
+            "fireplace"
+        ],
+        "image": "https://i.ibb.co/2WgSwm0/house-forest-covered-greenery-sunlight-daytime.jpg"
+    },
+    {
+        "id": 3,
+        "estate_title": "Luxury Apartment in High-Rise Building",
+        "segment_name": "Apartment",
+        "description": "Luxurious apartment situated in a high-rise building, offering breathtaking views and upscale amenities. This elegant residence features modern design elements, high-end finishes, and spacious living areas flooded with natural light. Relax on the private balcony overlooking the city skyline or unwind in the building's exclusive amenities such as a rooftop pool and fitness center. Located in the heart of downtown, this apartment provides convenient access to dining, shopping, and entertainment options, making it an ideal choice for urban professionals seeking sophisticated city living.",
+        "price": "$1,500,000",
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "Downtown Anytown",
+        "facilities": [
+            "private balcony",
+            "rooftop pool",
+            "fitness center"
+        ],
+        "image": "https://i.ibb.co/PmX4FXJ/view-from-balcony-apartment.jpg"
+    },
+    {
+        "id": 4,
+        "estate_title": "Student Housing Near University Campus",
+        "segment_name": "Student Housing",
+        "description": "Convenient student housing located near the university campus, offering modern amenities and a vibrant community atmosphere. These furnished apartments feature individual bedrooms, shared living spaces, and on-site amenities such as study lounges, fitness centers, and communal kitchens. Ideal for students seeking a comfortable and supportive living environment close to campus. Enjoy easy access to classes, libraries, and campus events while living in a dynamic community of fellow students. Located in a prime location, these apartments provide the perfect balance of academic focus and social engagement for university students.",
+        "price": "$800/month",
+        "status": "rent",
+        "area": "600 sq ft",
+        "location": "University District, Anytown",
+        "facilities": [
+            "furnished apartments",
+            "study lounges",
+            "fitness center"
+        ],
+        "image": "https://i.ibb.co/Yk2yyWy/young-hipster-woman-pink-coat-jeans-street-with-backpack-coffee-listening-music-headphones-wearing-s.jpg"
+    },
+    {
+        "id": 5,
+        "estate_title": "Senior Living Community with Resort Amenities",
+        "segment_name": "Senior Living",
+        "description": "Upscale senior living community offering resort-style amenities and personalized care services. Residents can enjoy a maintenance-free lifestyle with access to gourmet dining, wellness programs, and recreational activities. The spacious apartments feature modern finishes, fully-equipped kitchens, and private balconies. Professional staff members provide assistance with daily tasks and personalized care plans to meet individual needs. Located in a serene setting with landscaped gardens and walking paths, this community offers a peaceful retreat for seniors seeking a vibrant and fulfilling retirement lifestyle.",
+        "price": "$4,000/month",
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "Senior Living Community, Anytown",
+        "facilities": [
+            "gourmet dining",
+            "wellness programs",
+            "personalized care services"
+        ],
+        "image": "https://i.ibb.co/J57FwHC/stair-pool.jpg"
+    },
+    {
+        "id": 6,
+        "estate_title": "Vacation Rental by the Beach",
+        "segment_name": "Vacation Rental",
+        "description": "Charming vacation rental located steps away from the sandy shores, offering the ultimate beach getaway. This cozy cottage features beach-inspired decor, comfortable furnishings, and a private patio for outdoor dining and relaxation. Spend your days lounging on the beach, swimming in the ocean, or exploring nearby attractions and coastal towns. Perfect for families or couples seeking a memorable beach vacation in a picturesque setting. Located in a popular beach destination with sunny weather and a laid-back atmosphere, this rental offers the perfect escape from the hustle and bustle of everyday life.",
+        "price": "$300/night",
+        "status": "rent",
+        "area": "800 sq ft",
+        "location": "Beachfront, Anytown",
+        "facilities": [
+            "private patio",
+            "beach access",
+            "coastal decor"
+        ],
+        "image": "https://i.ibb.co/qYnyBFy/umbrella-chair-beach-sea-ocean-with-blue-sky-white-cloud.jpg"
+    },
+    {
+        "id": 7,
+        "estate_title": "Cozy Cabin in the Mountains",
+        "segment_name": "Cabin",
+        "description": "Quaint cabin nestled in the scenic mountains, offering a peaceful retreat from the hustle and bustle of city life. This cozy retreat features rustic charm, wood-burning fireplace, and panoramic views of the surrounding wilderness. Spend your days hiking through the forest, fishing in nearby streams, or simply relaxing on the deck with a good book. Perfect for nature lovers and outdoor enthusiasts seeking tranquility and adventure in a beautiful natural setting. Located in a secluded mountain area with fresh air and stunning scenery, this cabin provides the perfect escape for your next vacation.",
+        "price": "$200/night",
+        "status": "rent",
+        "area": "600 sq ft",
+        "location": "Mountain Retreat, Anytown",
+        "facilities": [
+            "wood-burning fireplace",
+            "deck",
+            "hiking trails"
+        ],
+        "image": "https://i.ibb.co/gSvfXKj/long-shot-facade-cabin-alpe-d-huez-ski-resort-french-alps-sunrise.jpg"
+    },
+    {
+        "id": 8,
+        "estate_title": "Luxury Lakefront Home with Private Dock",
+        "segment_name": "Lakefront Home",
+        "description": "Luxurious lakefront home offering breathtaking views and exclusive amenities for the perfect vacation retreat. This upscale property features spacious interiors, high-end finishes, and floor-to-ceiling windows showcasing panoramic lake views. Relax on the outdoor terrace, take a dip in the private pool, or enjoy water sports from your own private dock. Perfect for families or groups seeking a memorable lakefront getaway in a stunning natural setting. Located in a sought-after lake destination with pristine waters and recreational activities, this rental provides the ultimate luxury vacation experience.",
+        "price": "$500/night",
+        "status": "rent",
+        "area": "3000 sq ft",
+        "location": "Lakefront, Anytown",
+        "facilities": [
+            "private pool",
+            "outdoor terrace",
+            "private dock"
+        ],
+        "image": "https://i.ibb.co/KmmMkh4/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-ge.jpg"
+    },
+    {
+        "id": 9,
+        "estate_title": "Seaside Condo with Panoramic Views",
+        "segment_name": "Seaside Condo",
+        "description": "Stunning seaside condo with panoramic views of the ocean, offering a luxurious retreat for your next vacation. This elegant condo features modern furnishings, spacious living areas, and floor-to-ceiling windows that frame breathtaking ocean vistas. Relax on the private balcony, take a stroll along the sandy beach, or unwind in the resort-style pool and spa. Perfect for couples or families seeking a memorable beach vacation in a premier coastal destination. Located in a sought-after beach community with upscale dining, shopping, and entertainment options, this condo provides the perfect blend of relaxation and luxury.",
+        "price": "$400/night",
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Seaside, Anytown",
+        "facilities": [
+            "private balcony",
+            "resort-style pool",
+            "beach access"
+        ],
+        "image": "https://i.ibb.co/4tk8K1b/6615eb96.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "image": "https://i.ibb.co/rphp58H/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-sm.jpg",
+        "review": "Exceptional experience with Residential Properties Inc. Their team went above and beyond to help me find the perfect home. Highly recommend their services."
+    },
+    {
+        "id": 2,
+        "name": "Emily Johnson",
+        "image": "https://i.ibb.co/rtmyf0k/smiling-blonde-business-woman.jpg",
+        "review": "Great experience selling my property with Residential Properties Inc. Their expertise and professionalism made the process smooth and stress-free."
+    },
+    {
+        "id": 3,
+        "name": "Michael Brown",
+        "image": "https://i.ibb.co/dmXFQLX/business-man-curly-cute-handsome-guy-black-suit-showing-good-gesture-smiling.jpg",
+        "review": "Residential Properties Inc helped me find the perfect apartment in a great location. Their agents were knowledgeable, responsive, and committed to finding me the right property."
+    },
+    {
+        "id": 4,
+        "name": "Jennifer Davis",
+        "image": "https://i.ibb.co/DYF3kKH/portrait-young-woman-smiling.jpg",
+        "review": "Amazing experience renting through Residential Properties Inc. Their team was attentive, professional, and made the rental process seamless."
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "image": "https://i.ibb.co/VSCVyQX/handsome-young-man-student-businessman-jacket-holds-his-arms-crossed-isolated-light-grey-wall.jpg",
+        "review": "Residential Properties Inc exceeded my expectations in helping me find my dream home. Their agents were proactive, knowledgeablethe buying process."
+    },
+    {
+        "id": 6,
+        "name": "Sarah Martinez",
+        "image": "https://i.ibb.co/55LgY2D/portrait-young-business-lady.jpg",
+        "review": "Fantastic experience working with Residential Properties Inc. Their team was responsive, attentive, and truly cared about finding me the right property."
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "position": "Chief Executive Officer",
+        "bio": "John Smith is an experienced leader with a strong background in real estate management and investment. He has been serving as the CEO of Residential Properties Inc. since 2010, leading the company to significant growth and success. John is dedicated to driving innovation and delivering exceptional value to clients and stakeholders.",
+        "email": "john.smith@example.com",
+        "phone": "+1 (123) 456-7890",
+        "image": "https://i.ibb.co/rxty6MG/portrait-goodlooking-attractive-stylish-bearded-man-brown.jpg",
+        "Company": "Residential Properties Inc."
+    },
+    {
+        "id": 2,
+        "name": "Alice Johnson",
+        "position": "Chief Financial Officer",
+        "bio": "Alice Johnson is a seasoned financial executive with expertise in budgeting, financial planning, and risk management. She joined Residential Properties Inc. She joined Residential Properties Inc She joined Residential Properties Inc in 2018 after serving as the CFO of a leading real estate investment firm. Alice holds an MBA in Finance from Harvard Business School.",
+        "email": "alice.johnson@example.com",
+        "phone": "+1 (234) 567-8901",
+        "image": "https://i.ibb.co/LCsRrss/handsome-young-guy-with-glasses-posing.jpg",
+        "Company": "Residential Properties Inc."
+    },
+    {
+        "id": 3,
+        "name": "Michael Davis",
+        "position": "Chief Operating Officer",
+        "bio": "Michael Davis is a results-driven operations leader with a strong background in property management and development. He joined Residential Properties Inc. in 2012 and has played a key role in streamlining operations and driving efficiency. Michael is committed to delivering outstanding service and enhancing the company's operational capabilities.",
+        "email": "michael.davis@example.com",
+        "phone": "+1 (345) 678-9012",
+        "image": "https://i.ibb.co/wWVt10N/close-up-portrait-caucasian-unshaved-man-eyeglasses-looking-camera-with-sincere-smile-isolated-gray.jpg",
+        "Company": "Residential Properties Inc."
+    },
+    {
+        "id": 4,
+        "name": "Emma Wilson",
+        "position": "Director of Sales",
+        "bio": "Emma Wilson is a dynamic sales professional with a proven track record of success in the real estate industry. She joined Residential Properties Inc. in 2015 and has been instrumental in driving sales growth and expanding the company's client base. Emma is passionate about delivering exceptional service and exceeding client expectations.",
+        "email": "emma.wilson@example.com",
+        "phone": "+1 (456) 789-0123",
+        "image": "https://i.ibb.co/55LgY2D/portrait-young-business-lady.jpg",
+        "Company": "Residential Properties Inc."
+    },
+    {
+        "id": 5,
+        "name": "Oliver Thompson",
+        "position": "Director of Marketing",
+        "bio": "Oliver Thompson is a creative marketing professional with a passion for real estate. He joined Residential Properties Inc. in 2017 and has been instrumental in developing and executing strategic marketing initiatives. She joined Residential Properties Inc Oliver is committed to enhancing the company's brand visibility and driving customer engagement.",
+        "email": "oliver.thompson@example.com",
+        "phone": "+1 (567) 890-1234",
+        "image": "https://i.ibb.co/rtmyf0k/smiling-blonde-business-woman.jpg",
+        "Company": "Residential Properties Inc."
+    },
+    {
+        "id": 6,
+        "name": "Sophia Clark",
+        "position": "Director of Operations",
+        "bio": "Sophia Clark is a detail-oriented operations manager with extensive experience in real estate administration. She joined Residential Properties Inc. in 2019 and has been instrumental in optimizing operational processes and improving efficiency. Sophia is dedicated to ensuring smooth operations and delivering exceptional service to clients.",
+        "email": "sophia.clark@example.com",
+        "phone": "+1 (678) 901-2345",
+        "image": "https://i.ibb.co/rphp58H/handsome-corporate-man-real-estate-agent-assistant-smiling-hold-hands-together-how-may-i-help-you-sm.jpg",
+        "Company": "Residential Properties Inc."
+    }
+]
